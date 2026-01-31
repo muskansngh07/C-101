@@ -9,3 +9,5 @@ int main(){
         printf("%d is not a leap year\n",year);
     return 0;
 }
+
+// An year is called a leap year when it is divisible by 400 or if it is divisible by 4 but not by 100.
