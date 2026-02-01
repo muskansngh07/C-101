@@ -14,3 +14,15 @@ Contains very basic questions all of which are as follows:
 8. [Pattern](https://github.com/muskansngh07/C-101/blob/main/Q1-10/pattern.c)
 9. [Sum of Digits of a number](https://github.com/muskansngh07/C-101/blob/main/Q1-10/sum-of-digits.c)
 10. [Multiples of a Number](https://github.com/muskansngh07/C-101/blob/main/Q1-10/multiplier.c)
+
+## Q11-20
+11. [Sum and average of elements in an array](https://github.com/muskansngh07/C-101/blob/main/Q11-20/sum_average.c)
+12. [Linear Search](https://github.com/muskansngh07/C-101/blob/main/Q11-20/linear_search.c)
+13. [Find Max and Min element in an array](https://github.com/muskansngh07/C-101/blob/main/Q11-20/max_min.c)
+14. [Remove Duplicates from an array](https://github.com/muskansngh07/C-101/blob/main/Q11-20/remove_duplicates.c)
+15. [Reverse an array- In place](https://github.com/muskansngh07/C-101/blob/main/Q11-20/reverse_array.c)
+16. [Second greatest element in an array](https://github.com/muskansngh07/C-101/blob/main/Q11-20/second_greatest.c)
+17. [ASCII values of characters in an array](https://github.com/muskansngh07/C-101/blob/main/Q11-20/ascii_array.c)
+18. [Vowels and Consonants in an array](https://github.com/muskansngh07/C-101/blob/main/Q11-20/vowel_consonant.c)
+19. [Frequency of each element in the array](https://github.com/muskansngh07/C-101/blob/main/Q11-20/frequency.c)
+20. [Even and Odd elements in the array](https://github.com/muskansngh07/C-101/blob/main/Q11-20/even_odd_count.c)
