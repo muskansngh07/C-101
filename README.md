@@ -26,3 +26,15 @@ Contains very basic questions all of which are as follows:
 18. [Vowels and Consonants in an array](https://github.com/muskansngh07/C-101/blob/main/Q11-20/vowel_consonant.c)
 19. [Frequency of each element in the array](https://github.com/muskansngh07/C-101/blob/main/Q11-20/frequency.c) ⭐️
 20. [Even and Odd elements in the array](https://github.com/muskansngh07/C-101/blob/main/Q11-20/even_odd_count.c)
+
+## Q21-30
+21. [Binary Search](https://github.com/muskansngh07/C-101/blob/main/Q21-30/binary_search.c)
+22. [Bubble Sort](https://github.com/muskansngh07/C-101/blob/main/Q21-30/bubble_sort.c)
+23. [Diagonal Sum](https://github.com/muskansngh07/C-101/blob/main/Q21-30/diagonal_sum.c)
+24. [Identity Matrix](https://github.com/muskansngh07/C-101/blob/main/Q21-30/identity_matrix.c)
+25. [Matrix Addition](https://github.com/muskansngh07/C-101/blob/main/Q21-30/matrix_addition.c)
+26. [Perfect Number](https://github.com/muskansngh07/C-101/blob/main/Q21-30/perfect_number.c)
+27. [Rotate array by k times](https://github.com/muskansngh07/C-101/blob/main/Q21-30/rotate_array.c)
+28. [Strong Number](https://github.com/muskansngh07/C-101/blob/main/Q21-30/strong_number.c)
+29. [Symmetric Matrix](https://github.com/muskansngh07/C-101/blob/main/Q21-30/symmetric.c)
+30. [Transpose of a Matrix](https://github.com/muskansngh07/C-101/blob/main/Q21-30/transpose.c)
